@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Muhammadimran<br>
-- 🌱 I’m currently learning about machine learning and artificial intelligence to enhance my skills. <br>
+- 🌱 I’m currently enrolled in Full Stack Web Development Course At SMIT Saylani Mass IT Training . <br>
 - 💞 I’m looking to collaborate on innovative projects that push the boundaries of what's possible impact on society.<br>
 - 📫 You can reach me via my Gmail imransahito38@gmail.com or connect with me through WhatsApp 0325.7063307.<br>
 - 😄 Pronouns: He/him/his/himself<br>
